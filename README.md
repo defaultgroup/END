@@ -6,10 +6,10 @@
 <body>
   <script>
   var password;
-  var pass1 = "심상현"
-    password = prompt("default 동아리는 누가 부장일까요");
+  var pass1 = "DEFAULT만세"
+    password = prompt("최종 정답을 써주세요");
     if(password === pass1){
-      document.write("축하드립니다 정답을 맞추셨습니다.");
+      document.write("축하드립니다 정답을 맞추셨습니다. 케이크는 거짓말이야...");
     } else {
  document.write("다시 잘 생각해보세요");
     }
