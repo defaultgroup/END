@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>33번문제</title>
