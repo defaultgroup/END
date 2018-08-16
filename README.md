@@ -3,10 +3,6 @@
 <title>33번문제</title>
 </head>
 <body>
-<audio src="horse.ogg" controls autoplay>
-Your browser does not support the audio element.
-</audio>
-  
   <script>
   var password;
   var pass1 = "DEFAULT만세"
